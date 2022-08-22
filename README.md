@@ -1,6 +1,10 @@
 # VarejoJava
 API JAVA 
 
+http://localhost:8080/
+
+http://localhost:8080/items
+http://localhost:8080/profile/items
 
 git init
 git add .
