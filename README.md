@@ -6,7 +6,7 @@ http://localhost:8080/
 http://localhost:8080/items
 http://localhost:8080/profile/items
 
-git init
+/*git init
 git add .
 git commit -m "comentario"
 
@@ -25,7 +25,7 @@ git push heroku tempbranch
 isso so pra mandar pro heroku
 
 heroku open  - abrir navegador com a hospedagem
-https://peaceful-lowlands-16987.herokuapp.com/
+https://peaceful-lowlands-16987.herokuapp.com/ */
 
 referencia
 https://youtu.be/-OmNWBdKs_k
